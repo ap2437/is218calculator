@@ -24,3 +24,7 @@ class Calculator:
         self.result = divide(a, b)
         return self.result
 
+    def square(self, a):
+        self.result = squaring(a)
+        return self.result
+
