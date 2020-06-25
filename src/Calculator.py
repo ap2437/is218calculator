@@ -20,3 +20,7 @@ class Calculator:
         self.result=multiply(a,b)
         return self.result
 
+    def divide(self, a, b):
+        self.result = divide(a, b)
+        return self.result
+
