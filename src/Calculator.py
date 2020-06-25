@@ -28,3 +28,6 @@ class Calculator:
         self.result = squaring(a)
         return self.result
 
+    def squareroot(self, a):
+        self.result = squareroot(a)
+        return self.result
